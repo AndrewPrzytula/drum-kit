@@ -123,14 +123,43 @@ background-image: url(images/snare.png);
     text-shadow: 3px 0 #DBEDF3;
     border-radius: 15px;
     display: inline-block;
-    width: 75px;
-    height: 75px;
+    width: 100px;
+    height: 100px;
     text-align: center;
     margin: 5px;
     background-color: white;
 
 
 
+
+}
+h1 {
+  font-size: 3rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 1px 0 grey;
+  margin: 5% auto;
+
+}
+
+h2{
+
+  font-size: 1rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 1px 0 grey;
+  margin-top: 5%;
+
+}
+.demo{
+  background:    #000839;
+  border:        3px solid #ffffff;
+  border-radius: 11px;
+  padding:       10px 25px;
+  color:         #ffffff;
+  display:       inline-block;
+  font:          normal bold 25px/1 "Arvo", serif;
+  text-align:    center;
 
 }
 
